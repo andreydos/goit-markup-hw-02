@@ -4,6 +4,7 @@
 }
 
 .footer-logo {
+  display: inline-block;
   color: #f4f4fd;
 }
 
