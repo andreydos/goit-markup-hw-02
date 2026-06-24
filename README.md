@@ -1,7 +1,5 @@
-# goit-markup-hw-01
+# goit-markup-hw-02
 
-Module 1. HTML Basics. Homework #1.
+Module 2. CSS Basics. Homework #2.
 
-Semantic HTML markup for the WebStudio page (no CSS).
-
-Live page: https://andreydos.github.io/goit-markup-hw-01/
+Semantic HTML markup and CSS styling for the WebStudio page.
