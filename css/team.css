@@ -3,7 +3,6 @@
 }
 
 .team-title {
-  margin-bottom: 72px;
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -17,7 +16,6 @@
 }
 
 .team-name {
-  margin-bottom: 8px;
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -31,17 +29,4 @@
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
-}
-
-.team-item .team-name,
-.team-item .team-role {
-  padding: 0 16px;
-}
-
-.team-item .team-name {
-  padding-top: 32px;
-}
-
-.team-item .team-role {
-  padding-bottom: 32px;
 }
